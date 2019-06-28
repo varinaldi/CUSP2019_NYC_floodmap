@@ -1,4 +1,4 @@
-# Welcome *Cloudburst. Rainfall. And(y). Ponding* Mappers
+# Welcome *Cloudburst. Rainfall. And. Ponding* Mappers
 
 <br>
 
@@ -13,4 +13,3 @@
 Mapping NYC flood susceptibility based on land charactersitic and remote sensing observation.
 <br>
 Loads of work to be done so stay tuned!
-
