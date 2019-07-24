@@ -24,3 +24,17 @@ This notebook runs through five ML techniques for Positive-Unlabeled learning. D
 - raster of 311 flood complaint layerin same dimension
 
 Standard packages are used with the exception of baggingPU, script can be found [here](https://github.com/roywright/pu_learning/blob/master/baggingPU.py), credits to Roy Wright.
+
+### Vivaldi.ipynb
+This notebook runs through five ML techniques for Positive-Unlabeled learning. Data required:
+- rasters of feature layers in same dimensions
+- raster of 311 flood complaint layerin same dimension
+
+Standard packages are used with the exception of baggingPU, script can be found [here](https://github.com/roywright/pu_learning/blob/master/baggingPU.py), credits to Roy Wright.
+
+### Vivaldi.R
+This notebook runs through five ML techniques for Positive-Unlabeled learning. Data required:
+- rasters of feature layers in same dimensions
+- raster of 311 flood complaint layerin same dimension
+
+Standard packages are used with the exception of baggingPU, script can be found [here](https://github.com/roywright/pu_learning/blob/master/baggingPU.py), credits to Roy Wright.
